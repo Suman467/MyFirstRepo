@@ -1,0 +1,8 @@
+import random
+random_number=random.random
+print(random)
+
+
+list=["a","b","c","d"]
+choice=random.choice(list)
+print(choice)
